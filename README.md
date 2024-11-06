@@ -89,5 +89,9 @@ Now, the project should be running on your local server.
 
 ## 🏯 Databases / Базы данных
   - SQLite
+  - PostgreSQL (used in production)
 
+Note: This project uses SQLite for development and testing. However, in a production environment, we recommend using PostgreSQL for better performance and scalability.
+
+Примечание: Этот проект использует SQLite для разработки и тестирования. Однако в реальной среде мы рекомендуем использовать PostgreSQL для улучшения производительности и масштабируемости.
 
