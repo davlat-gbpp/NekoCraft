@@ -6,8 +6,6 @@ NekoCraft is a Minecraft server that allows players to enjoy an anime-themed wor
 
 Этот проект представляет собой бэкенд на [Django](https://www.djangoproject.com/) для сайта NekoCraft.
 
-NekoCraft — это Minecraft сервер, который дает возможность играть с друзьями в мире, выполненном в стиле аниме.
-
 
 ## 🌸 Installation / Установка
 
